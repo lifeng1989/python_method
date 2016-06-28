@@ -104,3 +104,8 @@ wang-zhao-yang-2-16 | 王昭仰
 
 1. crawler.py 是只爬问题，crawler是两个都爬
 2. 使用前需要利用浏览器的开发者工具填写Cookie，使用crawler.py 的话忽略这个问题
+
+
+##新词发现工具
+
+详细信息查看wordextract下的Readme.md
